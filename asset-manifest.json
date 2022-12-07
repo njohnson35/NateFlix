@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NateFlix/static/css/main.21277b30.css",
+    "main.js": "/NateFlix/static/js/main.dff62143.js",
+    "index.html": "/NateFlix/index.html",
+    "main.21277b30.css.map": "/NateFlix/static/css/main.21277b30.css.map",
+    "main.dff62143.js.map": "/NateFlix/static/js/main.dff62143.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21277b30.css",
+    "static/js/main.dff62143.js"
+  ]
+}
